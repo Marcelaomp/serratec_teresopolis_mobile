@@ -1,0 +1,7 @@
+status:ok
+
+emulador
+consegui instalar
+
+expo
+funcionando
